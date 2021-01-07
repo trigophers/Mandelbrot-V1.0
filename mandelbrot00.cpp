@@ -1,6 +1,6 @@
 #include <iostream> //for 'cout'
 #include <fstream> //for writing to file
-#include <math.h>
+#include <math.h> //for math
 
 const int image_width = 480; //width
 const int image_height = 360; //height
